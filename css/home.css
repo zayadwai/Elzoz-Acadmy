@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #fff;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content .social-links a i {
+    color: #08d665;
+    font-size: 50px;
+    margin-left: 15px;
+    transition: 0.5s;
+  }
+  .content .social-links a i:hover{
+      color: #fff;
+  }
+  body{
+      background-color: rgb(0, 0, 0);
+  }
